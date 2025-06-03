@@ -1,6 +1,6 @@
 #  A Journey Through the Solar System — Powered by Python
 
-##  Mission Log by Chor Fung Yeung
+##  Mission Log by Charley Yeung
 
 This is the final assessment of the Module Fundamentals of Computing. In this assessment, students are required to write a Python programme to display information about the solar planets. Below is the briefing.
 

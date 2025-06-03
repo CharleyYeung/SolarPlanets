@@ -2,7 +2,7 @@
 
 ##  Mission Log by Charley Yeung
 
-This is the final assessment of the Module Fundamentals of Computing. In this assessment, students are required to write a Python programme to display information about the solar planets. Below is the briefing.
+This is the final assessment of the Module Fundamentals of Computing of the MSc Computer Science with Data Analytics at Sheffield Hallam University. In this assessment, students are required to write a Python programme to display information about the solar planets. Below is the briefing.
 
 This project is the result of everything I’ve learned in my journey through Fundamentals of Computing. I wanted to create something more than just lines of code — a small universe where users could meet the planets, ask them questions, learn their stories, and maybe even count their moons.
 

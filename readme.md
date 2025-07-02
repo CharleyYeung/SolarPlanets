@@ -21,6 +21,8 @@ This isn’t just about displaying data — it’s about making that data come a
 
 Data was carefully sourced from NASA and Wikipedia to ensure accuracy. The interface was made more intuitive through a Tkinter GUI, where users could take a mini quiz and then explore planets using dropdown menus.
 
+![Home screen of the Solar System Explorer](https://github.com/CharleyYeung/SolarPlanets/blob/main/home.png)
+
 ---
 
 ##  Unit Tests: Keeping My Starship Safe
